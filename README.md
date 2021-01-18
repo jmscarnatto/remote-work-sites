@@ -6,5 +6,5 @@ Lista de sitios con ofertas de trabajo remoto
 3) https://remotive.io/
 
 
-https://apply.workable.com/scrapinghub/?lng=en
-https://hnhiring.com/
+i) https://apply.workable.com/scrapinghub/?lng=en
+ii) https://hnhiring.com/
